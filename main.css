@@ -16,8 +16,18 @@ div.parent_box {
     display: flex;
 }
 
+img{
+    width: 50vw;
+    max-width: 640px;
+}
+
 .discription{
     margin: auto;
     margin-left: 0%;
-    font-size: large;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+body{
+    font-family: 'Yu Gothic','Yu Gothic Medium','メイリオ','MS ゴシック','游ゴシック Medium',sans-serif;
 }
