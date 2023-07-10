@@ -1,0 +1,23 @@
+.centering {
+    height: auto;
+    text-align: center;
+}
+
+#jump{
+    margin-left: 5%;
+    text-align: left;
+}
+
+h1{
+    text-align: center;
+}
+
+div.parent_box {
+    display: flex;
+}
+
+.discription{
+    margin: auto;
+    margin-left: 0%;
+    font-size: large;
+}
